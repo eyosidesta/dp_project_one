@@ -1,1 +1,4 @@
-# dp_project_one
+Design Patter Project One
+  Eyosias Desta
+  Abebe Kayimo
+  Melkam Beyene
