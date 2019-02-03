@@ -1,4 +1,4 @@
-Design Patter Project One
+Design Patter Project One; 
+Group Memebers
   Eyosias Desta
   Abebe Kayimo
-  Melkam Beyene
